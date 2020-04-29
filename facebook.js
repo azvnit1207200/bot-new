@@ -45,11 +45,11 @@ function Facebook(accessToken, groupId)
         let formPublish = new FormData();
         let date = moment().format('dddd').toUpperCase() + ' NGÀY '+ moment().format('LL').toUpperCase();
         formPublish.append('message',
-            `# TIN TỨC BUỔI SÁNG ${date}\n` +
+            `# TIN TỨC BUỔI TRƯA ${date}\n` +
             '\n' +
             '## thông tin\n' +
-            '* Bài viết được tự động đăng lúc 7 giờ sáng hàng ngày\n' +
-            '* Đây là post tự động được tạo bởi GST COMMUNITY.');
+            '* Bài viết được tự động đăng lúc 12 giờ trưa hàng ngày\n' +
+            '* Đây là post tự động được tạo bởi GST COMMUNITY');
         formPublish.append('formatting', 'MARKDOWN');
 
         for (let i = 0; i < images.length ; i++) {
