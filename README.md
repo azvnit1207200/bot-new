@@ -1,7 +1,5 @@
 # Our community
-Group facebook: https://www.facebook.com/groups/lerni/
 
-Youtube channel: https://www.youtube.com/channel/UCvVwR21Pb8r06LcZ7n3eR4g
 # Folder structor
 ```
 ├── news                    
@@ -11,4 +9,4 @@ Youtube channel: https://www.youtube.com/channel/UCvVwR21Pb8r06LcZ7n3eR4g
 ├── facebook.js             # Api Facebook
 └── ...
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/namttdh/lerni-fb-bot-news)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/azvnit1207200/bot-new)
