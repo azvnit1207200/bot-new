@@ -9,4 +9,4 @@
 ├── facebook.js             # Api Facebook
 └── ...
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/azvnit1207200/bot-new)
+Support: fb.com/ANHLTV2K3
